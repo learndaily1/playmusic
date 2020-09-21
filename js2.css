@@ -1,0 +1,67 @@
+body{
+   text-align: center;
+   background-color: teal;
+}
+.drum{
+    display:inline-block; 
+    height:10rem;
+    width:10rem;
+color:black;
+ margin: 40px;
+ border-radius: 2rem;
+font-size: 3rem;
+font-weight: 200;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border:0;
+}
+p{
+  font-size: 5rem;
+font-family: 'Ranchers',cursive;
+margin:0;
+color:white;
+}
+h1{
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: white;
+}
+/*
+.a{
+background-image: url('images/tom1.png');
+background-size: 10rem 10rem;
+}
+.s{
+background-image: url('images/tom2.png');
+background-size: 10rem 10rem;
+}
+.d{
+   background-image: url('images/tom3.png');
+   background-size: 10rem 10rem;
+
+}
+.j{
+
+background-image: url('images/tom4.png');
+background-size: 10rem 10rem;
+}
+.k{
+   background-image: url('images/cymbals-cymbal-pngrepo-com.png');
+   background-size: 10rem 10rem;
+
+}
+.l{
+background-image: url('images/tom1.png');
+background-size: 10rem 10rem;
+color:black;
+}
+.g{
+background-image: url('images/kick.png');
+background-size: 10rem 10rem;
+}
+.h{
+   background-image: url('images/hiclipart.com\ \(1\).png');
+   background-size: 10rem 10rem;
+
+   font-size: 5rem;
+}
+*/
+
